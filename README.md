@@ -1,6 +1,6 @@
 # A Multi-task Learning Model for Gold-two-mention Co-reference Resolution
 
-This repository contains the code used in [A Multi-task Learning Model for Gold-two-mention Co-reference Resolution](https://ieeexplore.ieee.org/document/10191719).
+This repository contains the official implementation for [A Multi-task Learning Model for Gold-two-mention Co-reference Resolution](https://ieeexplore.ieee.org/document/10191719).
 
 
 ## Citation
